@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT flip_it_or_get_licke_2040.wsgi:application
